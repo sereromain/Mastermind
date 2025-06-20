@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔴🟠🟡🟢🔵🟣 Mastermind 🟣🔵🟢🟡🟠🔴
+# 🔴🟠🟡🟢🔵 Mastermind 🟣🔵🟢🟡🟠
 
 [![Ocaml version](https://img.shields.io/badge/Ocaml-%3E%3D5.2.1-%23EC6813?style=for-the-badge&logo=ocaml)](https://ocaml.org/install#linux_mac_bsd)
 [![Unix](https://img.shields.io/badge/Linux-Mac-green?style=for-the-badge&logo=linux)](https://fr.wikipedia.org/wiki/Unix)
@@ -28,3 +28,7 @@ Executer le jeu :
 ```bash
 $ ./mastermind
 ```
+
+Le menu du jeu vous donnera une interface qui ressemble a ça :
+
+![Start menu](game_menu.gif)
