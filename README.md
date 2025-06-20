@@ -2,8 +2,8 @@
 
 # 🔴🟠🟡🟢🔵🟣 Mastermind 🟣🔵🟢🟡🟠🔴
 
-[![Ocaml version](https://img.shields.io/badge/Ocaml-%3E%3D5.2.1-orange)](https://ocaml.org/install#linux_mac_bsd)
-[![Unix](https://img.shields.io/badge/Mac-Linux-green)](https://fr.wikipedia.org/wiki/Unix)
+[![Ocaml version](https://img.shields.io/badge/Ocaml-%3E%3D5.2.1-%23EC6813?style=for-the-badge&logo=ocaml)](https://ocaml.org/install#linux_mac_bsd)
+[![Unix](https://img.shields.io/badge/Linux-Mac-green?style=for-the-badge&logo=linux)](https://fr.wikipedia.org/wiki/Unix)
 
 </div>
 
